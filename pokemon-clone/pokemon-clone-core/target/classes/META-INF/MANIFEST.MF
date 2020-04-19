@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: ashton
+Build-Jdk: 11.0.5
+Main-Class: com.d3games.pokemon.GameGUI
+Created-By: Maven Integration for Eclipse
+
