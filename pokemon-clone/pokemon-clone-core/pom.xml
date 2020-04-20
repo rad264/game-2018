@@ -8,7 +8,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>pokemon-clone-core</artifactId>
-	
+
 	<build>
 		<plugins>
 			<plugin>
@@ -25,4 +25,13 @@
 			</plugin>
 		</plugins>
 	</build>
+
+	<dependencies>
+		<dependency>
+			<groupId>com.d3games.game-ui</groupId>
+			<artifactId>game-ui</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
+
 </project>

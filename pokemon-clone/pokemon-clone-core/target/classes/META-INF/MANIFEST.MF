@@ -1,6 +1,8 @@
 Manifest-Version: 1.0
 Built-By: ashton
 Build-Jdk: 11.0.5
+Class-Path: game-ui-0.0.1-SNAPSHOT.jar game-engine-0.0.1-SNAPSHOT.jar co
+ mmons-lang3-3.10.jar
 Main-Class: com.d3games.pokemon.GameGUI
 Created-By: Maven Integration for Eclipse
 
